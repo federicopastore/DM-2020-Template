@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch"
+    id="13fed2c9-f73a-498b-a5eb-65d2be67f28f"
+    documentation="Specific capability supporting the Branch personnel in dealing with sales and servicing activities directly with the customer">
+  <properties
+      key="Group"
+      value="Channels"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

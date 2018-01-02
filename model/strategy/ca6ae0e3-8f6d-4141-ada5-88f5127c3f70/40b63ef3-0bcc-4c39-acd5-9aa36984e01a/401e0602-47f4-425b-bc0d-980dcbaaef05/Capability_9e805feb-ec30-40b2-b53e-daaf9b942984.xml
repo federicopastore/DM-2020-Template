@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Profiling and authorizations "
+    id="9e805feb-ec30-40b2-b53e-daaf9b942984"
+    documentation="It allows to manage and check  the Digital platform access privileges (rights, powers and delegations) granted to each profile an authenticated  user, program, or process belongs. Access privileges can be defined in terms of capabilities, functionalities, API/Service or data. &#xD;&#xA;Different capabilities or instances can be used to manage authorization process for different type of users (i.e. customers, employee and partners)">
+  <properties
+      key="Group"
+      value="Security Mechanisms"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

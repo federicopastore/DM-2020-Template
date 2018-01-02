@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM"
+    id="81a8f7f5-d6fa-44ed-b70a-2d9ad76c1003"
+    documentation="Specific capability providing banking services through an ATM machine. The cash and non-cash functionalities are encompassed in the ATM capability">
+  <properties
+      key="Group"
+      value="Channels"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

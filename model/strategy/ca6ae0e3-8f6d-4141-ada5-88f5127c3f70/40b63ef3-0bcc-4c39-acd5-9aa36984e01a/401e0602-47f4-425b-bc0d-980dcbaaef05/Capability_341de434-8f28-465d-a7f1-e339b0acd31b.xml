@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identification"
+    id="341de434-8f28-465d-a7f1-e339b0acd31b"
+    documentation="It supports the identification process of the different actors interacting through the different channels with the DP: customers, prospects, partners, employee, etc. The capability provides mechanisms for creating, importing, maintaining and searching for identities. It includes also the management of external identity  (example: Facebook/Google+ id for prospects). &#xD;&#xA;Different capabilities or instances can be used to manage authentication for different type of users (i.e. customers, employee and partners)&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="SecurityMechanisms"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CC (Call center)"
+    id="97799464-04ae-436f-99cc-32883b29a361"
+    documentation="Specific capability supporting the Call Center personnel in dealing with sales and servicing activities at the phone with the customer">
+  <properties
+      key="Group"
+      value="Channels"/>
+</archimate:Capability>

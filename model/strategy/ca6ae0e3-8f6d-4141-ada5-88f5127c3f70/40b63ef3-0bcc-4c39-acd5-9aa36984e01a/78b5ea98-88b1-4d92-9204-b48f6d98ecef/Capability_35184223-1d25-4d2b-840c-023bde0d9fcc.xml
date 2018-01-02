@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Web &amp; Mobile"
+    id="35184223-1d25-4d2b-840c-023bde0d9fcc"
+    documentation="Web and mobile capabilities allowing the customer to interact with the banking services through a web browser, a mobile browser or a mobile app">
+  <properties
+      key="Group"
+      value="Channels"/>
+</archimate:Capability>

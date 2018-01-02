@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kiosk"
+    id="3a2f3ada-6a05-49a9-a1bb-fb288dc66747"
+    documentation="Specific capability providing banking and non banking services through a Kiosk device. This capability is intended to support clients in free access point (inside or outside of banking branches) when they do not have their own smartphone or laptop, etc.(Interactive terminal)&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Channels"/>
+</archimate:Capability>

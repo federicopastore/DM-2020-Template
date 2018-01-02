@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Social Media"
+    id="9a574d9f-3977-48ef-8f7d-c1429f5890bc"
+    documentation="Specific capability that use social channels to provide information or some basic banking services to the customers and prospects. It allows also to promote the bank’s global image and remedy to customers and prospects complaints. It also allows to publish ads on social networks.">
+  <properties
+      key="Group"
+      value="Channels"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

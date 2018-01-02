@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advanced IVR"
+    id="915960f6-ac6a-4230-9c92-20415bc66b9c"
+    documentation="Specific capability that use an IVR system to provide the customer with some banking services (i.e. account summary, service request management, product information, marketing campaign)">
+  <properties
+      key="Group"
+      value="Channels"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>

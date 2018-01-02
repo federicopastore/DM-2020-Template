@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Web &amp; Mobile"
+    id="8c0d5ffc-01d5-458e-8495-75f85e2c1003"
+    documentation="Web and mobile capabilities supporting the employee (i.e. RM) in dealing with sales and servicing activities">
+  <properties
+      key="Group"
+      value="Channels"/>
+</archimate:Capability>

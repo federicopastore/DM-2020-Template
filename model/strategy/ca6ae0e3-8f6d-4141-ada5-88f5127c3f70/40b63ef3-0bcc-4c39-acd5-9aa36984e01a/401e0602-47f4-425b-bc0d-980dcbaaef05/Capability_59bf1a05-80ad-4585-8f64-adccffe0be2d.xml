@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication"
+    id="59bf1a05-80ad-4585-8f64-adccffe0be2d"
+    documentation="It supports the authentication process of an identified user. Depending on the security level of the accessed functionality authentication can be multi-factor and can leverage advanced biometric techniques (retina, voice, fingerprints). The authentication system provides SSO mechanism.&#xD;&#xA;Different capabilities or instances can be used to manage authentication for different type of users (i.e. customers, employee and partners)&#xD;&#xA;">
+  <properties
+      key="Group"
+      value="Security Mechanisms"/>
+  <properties
+      key="Platform"
+      value="Digital Platform"/>
+</archimate:Capability>
